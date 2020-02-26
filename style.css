@@ -427,7 +427,10 @@ div.tab button:hover {
 }
 
 .first-section {
-    padding: 0;
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 30px;
     border-bottom: 0;
 }
 
