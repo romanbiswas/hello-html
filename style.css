@@ -138,10 +138,13 @@ a {
     position: relative;
     background-color: #ffffff;
 }
+.header {
+    background-color: #74a044;
+}
 
 .navbar-inverse .navbar-nav .nav-link,
 .navbar-nav .nav-link {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 500;
     line-height: 1;
     padding: 0.9rem 0 0.8rem;
