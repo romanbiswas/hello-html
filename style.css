@@ -140,6 +140,7 @@ a {
 }
 .header {
     background-color: #74a044;
+
 }
 
 .navbar-inverse .navbar-nav .nav-link,
@@ -170,11 +171,11 @@ a {
 }
 
 .header-section {
-    padding-top: 5px;
+    padding-top: 7px;
     padding-right: 20px;
-    padding-bottom: 5px;
+    padding-bottom: 7px;
     padding-left: 20px;
-    background-color: #000000;
+    background-color: #121212;
 }
 
 .logo img {
@@ -1687,4 +1688,17 @@ hr.invis3 {
 .container {
     width: 1250px;
     max-width: 100%;
+}
+.roman p {
+    font-size: 25px;
+    padding-top: 40px;
+    text-align: center;
+    font-family: 'Helvetica', serif;
+    color: #121212;
+    padding-bottom: 0px;
+    font-weight: 700;
+
+}
+.nav-item a {
+    font-size: 200px;
 }
