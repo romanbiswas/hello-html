@@ -167,8 +167,11 @@ a {
 }
 
 .header-section {
-    padding: 3rem 0 1.5rem;
-    background-color: #ffffff;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    background-color: #000000;
 }
 
 .logo img {
@@ -1673,4 +1676,9 @@ hr.invis3 {
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%
+}
+
+.container {
+    width: 1250px;
+    max-width: 100%;
 }
